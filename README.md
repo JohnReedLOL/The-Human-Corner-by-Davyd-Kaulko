@@ -6,8 +6,12 @@ A collection of (mostly) technical things every software developer should know a
 
 Context: 
 
-...
+... 
+
+https://github.com/ossu/computer-science 
+
+👆🏼 Courses covering what everyone who graduates with a Computer Science bachelor's degree should learn.
 
 https://github.com/JohnReedLOL/How-to-prep-for-the-programmer-job-interview 
 
-John Michael Reed's guide for prepping for the programmer job interview (for people who got to the job interview stage)
+👆🏼 John Michael Reed's guide for prepping for the programmer job interview (for people who got to the job interview stage)
